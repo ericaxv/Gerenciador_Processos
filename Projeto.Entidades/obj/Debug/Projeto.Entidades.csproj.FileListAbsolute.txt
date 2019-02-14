@@ -1,0 +1,6 @@
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\obj\Debug\Projeto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb

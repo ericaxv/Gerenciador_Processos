@@ -1,0 +1,11 @@
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.pdb
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Dapper.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Projeto.Entidades.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Projeto.Entidades.pdb
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\bin\Debug\Dapper.xml
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.csproj.CopyComplete
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.dll
+C:\Users\Lindalva\source\repos\Gerenciador de Processos\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.pdb
